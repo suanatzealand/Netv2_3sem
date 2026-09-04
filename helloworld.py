@@ -1,4 +1,4 @@
-## dette er version 2 ;-)
+## dette er version 3 - nu med ekstra sjov ;-)
 print("mit lille program")
 print("Velkommen til Udvidet netværksteknologi")
 print("Vi skal lære Python, test og netværk.")
